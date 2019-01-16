@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Bharath Kumar Kanagala 
 
-dcase@nwmissouri.edu
+S534865@nwmissouri.edu
 
 ## New Section 
 
